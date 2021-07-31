@@ -4,21 +4,32 @@ sidebar_position: 1
 
 # Tutorial Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+*   `Let's discover Docusaurus in less than 5 minutes.`
+*   `That's great and i love it!`
 
 ## Getting Started
 
 Get started by **creating a new site**.
 
-Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.
+Or **try Docusaurus immediately** with new.docusaurus.io.
 
 ## Generate a new site
 
 Generate a new Docusaurus site using the **classic template**:
 
+***
+
+```shell
+```
+
+***
+
 ```shell
 npx @docusaurus/init@latest init my-website classic
 ```
+
+\
+
 
 ## Start your site
 
